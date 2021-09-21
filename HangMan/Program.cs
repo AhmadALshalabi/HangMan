@@ -25,7 +25,7 @@ for (int i = 0; i < vs.Length; i++)
         else
         {
             Console.Write("_" + " ");
-        }
+        **
     }
   
 }
